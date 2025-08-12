@@ -2,6 +2,7 @@
 name = "example-pyproject"
 version = "0.0.1"
 license = "MIT"
+license_file = "LICENSE.txt"
 authors = [
 { name = "Ben Lew",  email = "lew@baeri.org"}
 ]
